@@ -1,6 +1,8 @@
 "Clean Code" by Robert C. Martin is a seminal book in software development that emphasizes the importance of writing clean, readable, and maintainable code. Here's a summary of its key points:
 
-Importance of Clean Code: Clean code is crucial for the long-term success of a software project. It leads to better understandability, easier maintenance, and fewer bugs.
+--------------------------------------------------------------------
+
+### Importance of Clean Code: Clean code is crucial for the long-term success of a software project. It leads to better understandability, easier maintenance, and fewer bugs.
 
 1. Naming: Choosing descriptive and meaningful names for variables, functions, and classes is essential for clarity and comprehension.
 
